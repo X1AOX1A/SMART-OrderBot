@@ -160,7 +160,7 @@ conda activate OrderBot
 rasa train --data data/
 ```
 
-Talk to - bot:
+Talk to bot:
 
 ```
 conda activate OrderBot
